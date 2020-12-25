@@ -1,8 +1,0 @@
-    1  git status
-    2  git config user.name
-    3  git config user.email
-    4  git init
-    5  git status
-    6  clear
-    7  history
-    8  history > get.txt
